@@ -1,4 +1,4 @@
-antikris
+anti-kris
 ========
 
 A simple Chrome extension that prevents you from opening 'Kris Aquino'-related articles.
